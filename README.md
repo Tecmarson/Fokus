@@ -1,4 +1,4 @@
-# Manipulação da árvore DOM
+# FOKUS
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/Tecmarson/HTML/blob/main/LICENSE)
 
