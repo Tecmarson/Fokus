@@ -5,7 +5,7 @@
 https://fokus-six.vercel.app/
 # Sobre o projeto
 
-Projeto desenvolvido durante o curso **Manipulando elementos no DOM**, curso organizado pela [Alura](https://www.alura.com.br/ "Site da Alura").
+Projeto desenvolvido durante o curso **MANIPULANDO ELEMENTOS DO DOM**, curso organizado pela [Alura](https://www.alura.com.br/ "Site da Alura").
 
 A proposta do projeto é a de aprender o conceito de DOM e manipulação da árvore DOM nas páginas web, usando métodos javascript para fazer iteração com usuários.
 
