@@ -2,6 +2,7 @@
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/Tecmarson/HTML/blob/main/LICENSE)
 
+https://fokus-six.vercel.app/
 # Sobre o projeto
 
 Projeto desenvolvido durante o curso **Manipulando elementos no DOM**, curso organizado pela [Alura](https://www.alura.com.br/ "Site da Alura").
