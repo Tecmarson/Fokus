@@ -10,11 +10,11 @@ A proposta do projeto é a de aprender o conceito de DOM e manipulação da árv
 
 # Imagens do projeto
 
-![5](https://github.com/Tecmarson/Fokus-projeto-base/assets/65915029/cf2b6b34-49ea-4c9f-b107-a92d3525ea65)
+![5](https://github.com/Tecmarson/Fokus/assets/65915029/d44883ed-d369-43dc-b125-2b89d08a0a95)
 
-![15](https://github.com/Tecmarson/Fokus-projeto-base/assets/65915029/71a9fce9-91cd-49fd-be48-c4da4f262f1f)
+![15](https://github.com/Tecmarson/Fokus/assets/65915029/3b1b47a0-9a8e-4f82-bad0-06cc703add92)
 
-![25](https://github.com/Tecmarson/Fokus-projeto-base/assets/65915029/6c1dc09d-c78d-4d7a-8016-4fde0ebdede1)
+![25](https://github.com/Tecmarson/Fokus/assets/65915029/f2d8acbf-8454-47b6-a085-e9ab25a2efa2)
 
 # Tecnologias utilizadas
 ## Front end
