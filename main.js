@@ -25,7 +25,6 @@ let intevaloId = null;
 const contagemRegressiva = () => {
   if (tempoEmSegundos <= 0) {
     tocar(audioFinalizado);
-    alert("Tempo finalizado!");
     zerar();
     return;
   }
